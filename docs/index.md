@@ -6,7 +6,7 @@ Dans ce projet, vous transformerez des descriptions de manuscrits tirées de cat
 
 La règle fondamentale est la suivante : **une ligne dans « Manuscript Contents » correspond à un texte, une oeuvre, ou une unité textuelle dans un manuscrit donné**. Si un manuscrit contient plusieurs items distincts, il faudra donc créer plusieurs lignes.
 
-Il faut toujours privilégier la prudence. Les champs **« as catalogue »** servent à conserver le libellé du catalogue aussi fidèlement que possible ; les champs **« normalised »** ne doivent être remplis que si l’identification est raisonnablement sûre. En cas d’incertitude, il vaut mieux **laisser le champ vide** ou **poser une question**, plutôt que de deviner. Le but n’est pas de reconstruire le manuscrit de manière spéculative, mais de produire des données fiables, explicites et réutilisables.
+Il faut toujours privilégier la prudence. Les champs **« as catalogue »** servent à conserver le libellé du catalogue aussi fidèlement que possible ; les champs **« normalised »** ne doivent être remplis que si l’identification est raisonnablement sûre. En cas d’incertitude, il vaut mieux **laisser le champ vide** ou **poser une question à M. Pollard**, plutôt que de deviner. Le but n’est pas de reconstruire le manuscrit de manière spéculative, mais de produire des données fiables, explicites et réutilisables.
 
 ---
 
@@ -407,7 +407,7 @@ Toujours préférer :
 
 - une information partielle mais sûre ;
 - un champ vide ;
-- une question posée au responsable.
+- une question posée à M. Pollard.
 
 ---
 
